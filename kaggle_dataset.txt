@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/bonastreyair/predicting-blood-analysis?resource=download&select=blood-test.csv
+https://www.kaggle.com/datasets/bonastreyair/predicting-blood-analysis?resource=download&select=blood-train.csv
